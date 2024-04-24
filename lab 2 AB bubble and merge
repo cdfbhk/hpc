@@ -135,3 +135,11 @@ int main() {
     std::cout << "Time taken: " << stop - start << " seconds" << std::endl;
     return 0;
 }
+
+5
+2 5 1 6 3
+Enter total no. of elements:
+Enter 5 elements:
+Sorted Elements as follows:
+1 2 3 5 6 
+
