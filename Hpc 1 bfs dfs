@@ -119,6 +119,12 @@ do you want insert one more node?y
 do you want insert one more node?n
 	5	3	2	7	8'''
 
+// terminal cmnds if eclipse not working
+
+// g++ -o output -fopenmp hpc1.cpp
+
+// ./output
+
 
 
 
